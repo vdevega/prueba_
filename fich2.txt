@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esta es la primera linea del segundo fichero desde git bash
+=======
+Hola soy la primera linea del fich2 desde GitHub
+>>>>>>> 44712d98391fc7cdeb5f588408146cc465444252
